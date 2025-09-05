@@ -1,0 +1,13 @@
+D:\Master App\tugasnya\Ulangan.walahi\bin\Debug\Ulangan.walahi.exe.config
+D:\Master App\tugasnya\Ulangan.walahi\bin\Debug\Ulangan.walahi.exe
+D:\Master App\tugasnya\Ulangan.walahi\bin\Debug\Ulangan.walahi.pdb
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.csproj.AssemblyReference.cache
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.Form1.resources
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.Properties.Resources.resources
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.csproj.GenerateResource.cache
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.csproj.CoreCompileInputs.cache
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.exe
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.pdb
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan.walahi.exe.config
+D:\Master App\tugasnya\Ulangan.walahi\bin\Debug\System.Data.SQLite.dll
+D:\Master App\tugasnya\Ulangan.walahi\obj\Debug\Ulangan..E57CA18C.Up2Date
